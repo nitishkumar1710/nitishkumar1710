@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitishkumar0707)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitishkumar1710)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitish.kumar.in1710@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nitishk_1710)
 
 </div>
 
@@ -219,29 +219,13 @@ print(me.current_status())
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitishkumar1710/nitishkumar1710/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitishkumar1710/nitishkumar1710/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nitishkumar1710/nitishkumar1710/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-> ⚙️ *To enable the snake animation, set up the [GitHub Action](https://github.com/Platane/snk) in your profile repo (`.github/workflows/snake.yml`) and push an output branch.*
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 📈 Coding Profiles
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/nitishkumar1710?theme=dark&font=Fira%20Code&ext=contest&border=0)](https://leetcode.com/nitishkumar1710)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nitishk_1710?theme=dark&font=Fira%20Code&ext=contest&border=0)](https://leetcode.com/nitishk_1710)
 
 </div>
 
